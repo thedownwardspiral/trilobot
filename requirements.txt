@@ -1,0 +1,14 @@
+# Trilobot Control Scripts - Python Dependencies
+
+# Bluetooth controller support
+pygame>=2.0.0
+
+# Web server for camera streaming (controller.py)
+flask>=2.0.0
+
+# Raspberry Pi camera (typically pre-installed on Raspberry Pi OS)
+picamera2>=0.3.0
+
+# Trilobot library - install via Pimoroni installer:
+# curl -sS https://get.pimoroni.com/trilobot | bash
+# trilobot
