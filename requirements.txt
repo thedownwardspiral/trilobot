@@ -7,7 +7,7 @@ pygame>=2.6.1
 flask>=3.1.3
 
 # Raspberry Pi camera (typically pre-installed on Raspberry Pi OS)
-picamera2>=0.3.37
+picamera2>=0.3.38
 
 # Trilobot library - install via Pimoroni installer:
 # curl -sS https://get.pimoroni.com/trilobot | bash
